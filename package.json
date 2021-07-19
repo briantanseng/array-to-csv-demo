@@ -1,0 +1,14 @@
+{
+  "name": "array-to-csv-demo",
+  "version": "1.0.0",
+  "description": "Demo app that converts an array to CSV",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Brian Tan Seng",
+  "license": "MIT",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0"
+  }
+}
